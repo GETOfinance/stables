@@ -1,0 +1,12 @@
+{
+  "baseCurrency": "USD",
+  "rateToleranceBps": 1000,
+  "evms": [
+    {
+      "stablecoinManagerAddress": "0x5CFa6EbCb141075F478b3B8139719124D15a7eF8",
+      "chainSelectorName": "ethereum-mainnet",
+      "gasLimit": "650000",
+      "supportedCurrencies": ["USDC", "USD", "EUR", "JPY", "CNY", "NGN", "ZAR", "KES", "GHS", "UGX"]
+    }
+  ]
+}

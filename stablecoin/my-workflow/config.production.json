@@ -1,0 +1,12 @@
+{
+  "baseCurrency": "USD",
+  "rateToleranceBps": 1000,
+  "evms": [
+    {
+      "stablecoinManagerAddress": "0xYOUR_DEPLOYED_STABLECOIN_MANAGER",
+      "chainSelectorName": "ethereum-testnet-sepolia",
+      "gasLimit": "650000",
+      "supportedCurrencies": ["USDC", "USD", "EUR", "JPY", "CNY", "NGN", "ZAR", "KES", "GHS", "UGX"]
+    }
+  ]
+}
