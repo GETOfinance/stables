@@ -235,9 +235,9 @@ Tenderly VNET explorer root:
 
 | Component | Address | Explorer |
 |---|---|---|
-| StablecoinManager | `0x5CFa6EbCb141075F478b3B8139719124D15a7eF8` | [View address](https://dashboard.tenderly.co/explorer/vnet/e9db97d6-ae88-45ff-8cc5-79e399163e8e/address/0x5CFa6EbCb141075F478b3B8139719124D15a7eF8) |
-| CRE simulation forwarder | `0xa3d1ad4ac559a6575a114998affb2fb2ec97a7d9` | [View address](https://dashboard.tenderly.co/explorer/vnet/e9db97d6-ae88-45ff-8cc5-79e399163e8e/address/0xa3d1ad4ac559a6575a114998affb2fb2ec97a7d9) |
-| USDC (forked mainnet token) | `0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48` | [View address](https://dashboard.tenderly.co/explorer/vnet/e9db97d6-ae88-45ff-8cc5-79e399163e8e/address/0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48) |
+| StablecoinManager | `0x5CFa6EbCb141075F478b3B8139719124D15a7eF8` | [View address](https://dashboard.tenderly.co/explorer/vnet/e9db97d6-ae88-45ff-8cc5-79e399163e8e) |
+| CRE simulation forwarder | `0xa3d1ad4ac559a6575a114998affb2fb2ec97a7d9` | [View address](https://dashboard.tenderly.co/explorer/vnet/e9db97d6-ae88-45ff-8cc5-79e399163e8e) |
+| USDC (forked mainnet token) | `0xA0b86991c6218b36c1d19d4a2e9eb0ce3606eb48` | [View address](https://dashboard.tenderly.co/explorer/vnet/e9db97d6-ae88-45ff-8cc5-79e399163e8e) |
 
 ### Key transaction IDs
 
