@@ -17,6 +17,8 @@ Typical dApps and agent workflows have four gaps:
 3. **Agent-assisted workflows need a billing layer** so usage can be priced, paid, and verified.
 4. **Users need transparent execution visibility** instead of opaque backend-only orchestration.
 
+## Solution
+
 Stables solves those gaps as single dApp:
 
 - the user initiates mint/burn from the frontend
