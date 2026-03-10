@@ -1,4 +1,4 @@
-# Stables = Stablecoins + ProceedGate AI
+# Stables = Stablecoins + ProceedGate AI Agent
 
 Stables is a **single dApp solution** that combines Stablecoins and a gating AI:
 
