@@ -28,7 +28,7 @@ Stables solves those gaps as single dApp:
 - Tenderly provides the execution network and explorer visibility
 - the frontend streams the full terminal activity live
 
-## Solution implemented in this repo
+## Solution implementation
 
 ### Stables side
 
