@@ -231,7 +231,7 @@ The frontend automatically:
 
 Tenderly VNET explorer root:
 
-- [Explorer root](https://dashboard.tenderly.co/explorer/vnet/e9db97d6-ae88-45ff-8cc5-79e399163e8e)
+- [Tenderly Explorer](https://dashboard.tenderly.co/explorer/vnet/e9db97d6-ae88-45ff-8cc5-79e399163e8e)
 
 ### Smart contracts
 
